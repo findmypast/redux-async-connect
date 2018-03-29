@@ -21,7 +21,7 @@
     "async",
     "props"
   ],
-  "author": "Tech Findmypast",
+  "author": "Findmypast <oss@findmypast.com> tech.findmypast.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/findmypast/redux-async-connect/issues"
